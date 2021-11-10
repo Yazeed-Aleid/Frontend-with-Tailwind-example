@@ -6,8 +6,18 @@ Frontend with Tailwind example
 CONGRATULATIONS!
 Now that we have our backend set up we can start our front end so as to conect it to our frontend.
 There's some things that we have to set up. We will create your Tuwaiq 1000 student tracker and we are goint to use Tailwind CSS to style it.
+
+# TAILWIND.
+
+1. Let's go through the set up https://tailwindcss.com/docs/installation
+    1. Click on "Create React app" and follow the documentation step by step to be ablet to install and set up TailwindCSS inside of your project.
+    2. Let's add an extension in Visual Studio Code called "Tailwind intelisense"
+    3. Next we need to set up a primary and secondary color inside of our tailwind.config.js file. https://tailwindcss.com/docs/configuration
+
+# TASKS.
+
 1. Let's create this app with a home page that will greet us with and introduction of yourself.
-    1. This greeting component should have a picture of you, your name and last name, a short description of who you are and where you come from and be animated in some way.
+    1. This greeting component should have a picture of you, your name and last name, a short description of who you are and where you come from and be animated in some way. https://tailwindcss.com/docs/animation
     2. Next we need to import some icons and link them to 3 pages. Our Github profile, our LinkedIn profile, our Codewars profile(it should show some stats about the kata's we do every morning)
     3. Last we need a subcomponet that will show your first project, a picture of the webpage in every responsive design look. So one for desktop and one for mobile at least. Also we need it to Have a title that links to the deployed page, a short description of the project a link to the github repo, some description of the technologies used.
     
