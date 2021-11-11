@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mon": "^0.0.8",
+    "node": "^17.0.1",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "name": "frontend-with-tailwind-example",
+  "description": "Frontend with Tailwind example",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yazeed-Aleid/Frontend-with-Tailwind-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yazeed-Aleid/Frontend-with-Tailwind-example/issues"
+  },
+  "homepage": "https://github.com/Yazeed-Aleid/Frontend-with-Tailwind-example#readme"
+}
